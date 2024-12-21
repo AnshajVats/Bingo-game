@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:sfsu-csc-667-fall-2024-roberts/term-project-majora-s-mask.git
+	fetch = +refs/*:refs/*
+	mirror = true
